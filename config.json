@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuelete",
+        "uuid": 793200,
+        "checksum": "0s9n"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
